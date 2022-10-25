@@ -1,8 +1,9 @@
-- 👋 Oi, eu sou o @tiagowacheski
+- 👋 Oi, eu sou o **@tiagowacheski**
 - 👨‍🏫 Professor de química 🧪
 - 🏛️ Trabalho no Colégio Estadual Zilda Arns em São José dos Pinhais 🌲
 - 👀 Estou interessado em aprender programação 🤓
 - 🌱 Atualmente eu estou fazendo o curso de Pensamento Computacional 🖥️
+
 
 <!---
 tiagowacheski/tiagowacheski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
